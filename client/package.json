@@ -1,0 +1,43 @@
+{
+  "name": "a1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apexcharts": "^3.7.0",
+    "bootstrap": "^4.3.1",
+    "google-map-react": "^1.1.4",
+    "google-maps-react": "^2.0.2",
+    "http-server": "^0.11.1",
+    "mysql": "^2.17.1",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-charts": "^2.0.0-alpha.12",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "react-smart-data-table": "^0.7.0",
+    "react-table": "^6.10.0",
+    "recharts": "^1.6.2"
+  },
+  "scripts": {
+    "start": "set PORT=5000 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

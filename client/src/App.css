@@ -1,0 +1,37 @@
+
+body {
+  background-color: #345D7B;
+}
+
+.OffencesPage{
+  background-color: #345D7B;
+  color: #F7F9FB;
+  padding: 80px;
+}
+
+.LoginPage{
+  background-color: #345D7B;
+  color: white;
+  padding: 80px;
+}
+
+.Navbar{
+  background-color: #1A2F3E;
+  color: #C6CDD2;
+}
+
+.SearchPage{
+  background-color: #345D7B;
+  color: #F7F9FB;
+  padding: 75px;
+}
+
+.-striped{
+  background: white;
+  color: #55585A;
+}
+
+.-highlight{
+  color: #3B6079;
+}
+
